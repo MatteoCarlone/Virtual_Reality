@@ -4,13 +4,15 @@ Unreal Engine simulator for Drones autonomous landing on mobile platforms
 ### Link for oneDrive:
 click here:
 
-<a href="https://unigeit-my.sharepoint.com/:f:/r/personal/s5322242_studenti_unige_it/Documents/VR_project/TestDroneProject?csf=1&web=1&e=EcNYz3" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg" alt="c" width="40" height="40"/> </a>
-
+<a href="https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-GroupPrusa/Documenti%20condivisi/Group%20Prusa?csf=1&web=1&e=QaEd3J" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg" alt="c" width="40" height="40"/> </a>
+(only for people with access, if you want it, just write us).
 
 ### Link for Overleaf:
 click here:
 
 <a href="https://it.overleaf.com/read/gdyzfzgpxdkw" target="_blank"> <img src="https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg" alt="c" width="40" height="40"/> </a>
+
+### Link for YouTube video:
 
 ## Installation and Running
 
@@ -52,3 +54,13 @@ Additionally, the simulation displays real-time plots of the drone's altitude an
 ## Running the Python Script
 
 To run the python User Interface, go into the folder `PrusaProject/TestDroneProject/PythonScripts` and run `python MultiRotorUI.py`.
+
+## Contacts
+
+<a href="mailto:matteo.carlone99@gmail.com" >
+<img align="center" src="https://user-images.githubusercontent.com/81308076/155858753-ef1238f1-5887-4e4d-9ac2-2b0bb82836e2.png" alt="mmatteo-hub" height="40" width="40" />
+</a>
+
+<a href="mailto:ettoresani0@gmail.com" >
+<img align="center" src="https://user-images.githubusercontent.com/81308076/155858753-ef1238f1-5887-4e4d-9ac2-2b0bb82836e2.png" alt="mmatteo-hub" height="40" width="40" />
+</a>
