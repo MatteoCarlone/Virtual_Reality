@@ -16,7 +16,7 @@ click here:
 ### Link for YouTube video:
 click here:
 
-<a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/91745595/218070298-d169ccf9-713e-476a-9b67-c467f4b27578.png
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/YouTube_social_white_square_%282017%29.svg
 " alt="c" width="40" height="40"/> </a>
 
 ## Installation and Running
